@@ -21,3 +21,4 @@ public class QuestionController {
         return "question_list";
     }
 }
+// 안녕하세요
